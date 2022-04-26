@@ -1,3 +1,3 @@
 # Test with GitHub Pages
 
-Online demo: https://www.BaldeSep.github.io
+Online demo: https://baldesep.github.io
